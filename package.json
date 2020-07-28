@@ -1,0 +1,16 @@
+{
+  "name": "course-react",
+  "version": "1.0.0",
+  "description": "react course",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
